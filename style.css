@@ -1,0 +1,18 @@
+         #head{
+            background-color:yellow;
+            color:red;
+            font-size:40px;
+            text-align:center;
+            font-family:Arial, Helvetica, sans-serif;
+         }
+         #sec1 p{
+            color:blueviolet;
+            background-color:palegreen;
+            font-size:30px;
+         }
+       .para-style{
+         background-color:pink;
+         color:green;
+         font-size:30px;
+       }
+       
